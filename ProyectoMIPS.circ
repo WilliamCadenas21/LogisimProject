@@ -721,6 +721,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp loc="(1160,510)" name="num"/>
     <comp loc="(1230,370)" name="num"/>
     <comp loc="(650,240)" name="Unidad_Control"/>
+    <comp lib="0" loc="(1090,770)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="dreg"/>
+    </comp>
     <comp lib="0" loc="(360,340)" name="Tunnel">
       <a name="width" val="6"/>
       <a name="label" val="Opcode"/>
